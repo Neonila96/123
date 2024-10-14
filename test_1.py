@@ -5,7 +5,7 @@ from cart_page import CartPage
 from selenium import webdriver
 
 # Путь к локальному драйверу
-chrome_driver_path = './drivers/chromedriver'  # или chromedriver.exe для Windows
+chrome_driver_path = ./Drivers/chromedriver.exe  # или chromedriver.exe для Windows
 
 options = webdriver.ChromeOptions()
 
